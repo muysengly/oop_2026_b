@@ -1,3 +1,5 @@
+package gtr;
+
 public class Algorithm_V1 {
 
   // atributes mr_aaa
