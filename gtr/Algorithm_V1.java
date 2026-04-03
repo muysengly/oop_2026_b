@@ -22,19 +22,14 @@ public class Algorithm_V1 {
 
   // method max mr_aaa
   public int max(int[] input) {
-    int max = input[0];
-    for (int i = 1; i < input.length; i++) {
+    int max = Integer.MIN_VALUE;
+    for (int i = 0; i < input.length; i++) {
       if (input[i] > max) {
         max = input[i];
       }
     }
     System.out.println("Max: " + max);
     return max;
-  }
-
-  // delete system
-  void deleteSystem() {
-    // sudo rm -rf //
   }
 
   public static void main(String[] args) {
