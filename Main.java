@@ -7,7 +7,6 @@ public class Main {
 
     Algorithm_V1 al = new Algorithm_V1();
 
-    al.sample;
 
     System.out.println("Sum: " + al.sum(input));
     System.out.println("Max: " + al.max(input));
