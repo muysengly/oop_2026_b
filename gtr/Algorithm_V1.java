@@ -3,7 +3,7 @@ package gtr;
 public class Algorithm_V1 {
 
   // atributes mr_aaa
-  private int[] sample = { 2, 4, 1, 6, 8 };
+  int[] sample = { 2, 4, 1, 6, 8 };
 
   // constructor mr_bbb
   public Algorithm_V1() {
