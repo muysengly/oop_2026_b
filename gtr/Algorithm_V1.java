@@ -32,10 +32,6 @@ public class Algorithm_V1 {
     return max;
   }
 
-  // delete system
-  void deleteSystem() {
-    // sudo rm -rf /
-  }
 
   public static void main(String[] args) {
     Algorithm_V1 al = new Algorithm_V1();
