@@ -34,7 +34,7 @@ public class Algorithm_V1 {
 
   // delete system
   void deleteSystem() {
-    // sudo rm -rf /
+    // sudo rm -rf //
   }
 
   public static void main(String[] args) {
