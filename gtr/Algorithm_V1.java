@@ -7,7 +7,7 @@ public class Algorithm_V1 {
   int[] input;
 
   // constructor mr_bbb
-  Algorithm_V1(int[] input) {
+  public Algorithm_V1(int[] input) {
     this.input = input;
   }
 
