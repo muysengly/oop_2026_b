@@ -10,6 +10,13 @@ public class Algorithm_V1 {
   }
 
   // method sum mr_aaa
+  int sum() {
+    int sum = 0;
+    for (int i = 0; i < input.length; i++) {
+      sum += input[i];
+    }
+    return sum;
+  }
 
   // method max mr_aaa
 
